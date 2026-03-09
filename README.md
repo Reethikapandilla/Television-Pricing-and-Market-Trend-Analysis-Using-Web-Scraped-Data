@@ -188,6 +188,6 @@ A correlation heatmap was used to analyze relationships between multiple numeric
 
 ### **Conclusion**
 
-This project demonstrates how web scraping combined with data analysis can provide valuable insights into market trends. Resolution and product positioning strongly influence TV pricing
-Budget and mid-range TVs dominate consumer demandPremium TVs form a smaller but higher-value market segment. Data analytics helps businesses and consumers better understand pricing strategies, 
-market competition, and consumer preferences in the television market.
+This project demonstrates how web scraping combined with data analysis can provide valuable insights into market trends. Resolution and product positioning 
+strongly influence TV pricing. Budget and mid-range TVs dominate consumer demandPremium TVs form a smaller but higher-value market segment. Data analytics helps 
+businesses and consumers better understand pricing strategies, market competition, and consumer preferences in the television market.
